@@ -1,7 +1,7 @@
 {
   "ietf-mud:mud": {
     "mud-version": 1,
-    "mud-url": "https://github.com/srikanthshaps/Honeywell-Cisco/blob/master/honeywel.json",
+    "mud-url": "https://raw.githubusercontent.com/srikanthshaps/Honeywell-Cisco/master/honeywel.json",
     "mud-signature": "https://github.com/srikanthshaps/Honeywell-Cisco/blob/master/honeywel.p7s",
     "last-update": "2020-07-14T12:55:16+00:00",
     "cache-validity": 48,
